@@ -1,4 +1,4 @@
-OBS: Código feito no site onlineGDB
+//OBS: Código feito no site onlineGDB
 
 
 public class Main {
