@@ -79,7 +79,7 @@ class ContaRestaurante {
         System.out.println("\nSubtotal: R$ " +
                 String.format("%.2f", calcularSubtotal()));
 
-        System.out.println("Taxa de serviÃ§o: R$ " +
+        System.out.println("Taxa de serviço: R$ " +
                 String.format("%.2f", calcularTaxaServico()));
 
         System.out.println("Desconto: R$ " +
